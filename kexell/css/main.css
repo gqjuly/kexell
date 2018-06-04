@@ -1,0 +1,27 @@
+
+body{
+    
+    padding: 130px 5%;
+    margin: 0px;
+    
+}
+
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}  
+.navbar{
+    min-height: 0px;
+    height: 100px;
+    padding: 25px;
+}
+/* .navbar-right{
+    height: 80px;
+    background: #000;
+} */
+.row{
+    margin:20px 0px;
+}
+.row .col-md-8{
+    background:rgb(233, 223, 223);
+}

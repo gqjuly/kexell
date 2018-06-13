@@ -1096,12 +1096,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #b2b2b2;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: black;
   text-decoration: underline;
 }
 a:focus {
@@ -4096,7 +4096,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #337ab7;
+  background-color: grey;
 }
 .nav-stacked > li {
   float: none;
@@ -4493,7 +4493,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
   background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  /* border-color: #e7e7e7; */
 }
 .navbar-default .navbar-brand {
   color: #777;

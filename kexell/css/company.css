@@ -14,10 +14,8 @@ body{
 /* 导航栏样式 */
 .navbar{
     min-height: 0px;
-    height: 80px;
-    padding: 15px 35px;
+    padding: 15px;
     background: #0C0C0C;
-    
 }
 
 /* 导航栏中间添加竖线 */

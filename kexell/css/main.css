@@ -3,7 +3,7 @@ body{
     padding: 0px;
     margin: 0px; 
     color: aliceblue;
-    background-color:black;
+    background-color:black;/*  原地刷新不会显示白底*/
     background-image: url(../files/1.jpg);
 }
 
